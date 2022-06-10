@@ -12,6 +12,9 @@ Install with ``` pip install scapy ```
 python -
 Install with your package manager
 
+nmap -
+Install with your package manager
+
 ## Installation -
 
 Change ``` arp_result = scapy.arping('192.168.4.0/24') ``` with your own local gateway IP
