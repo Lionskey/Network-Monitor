@@ -27,6 +27,8 @@ but replace 't0k3n' with personal pushover user token
 
 Note: Make sure you install ntfy as superuser
 
+For more information on how ntfy works consult the documentation
+https://ntfy.readthedocs.io/en/v2.7.0/
 
 
 
