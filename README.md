@@ -18,10 +18,16 @@ In monitor.py
 
 ### Using ntfy with mobile device (Requires pushover mobile applicaton) -
 
-paste ``` echo -e 'backends: ["pushover"]\npushover: {"user_key": "t0k3n"}' > ~/.ntfy.yml ``` into the terminal 
+1. download the pushover mobile application
+
+2. create an account
+
+3. paste ``` echo -e 'backends: ["pushover"]\npushover: {"user_key": "t0k3n"}' > ~/.ntfy.yml ``` into the terminal 
 but replace 't0k3n' with personal pushover user token
 
 Note: Make sure you install ntfy as superuser
+
+
 
 
 
